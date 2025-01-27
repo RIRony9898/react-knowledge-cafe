@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://example.com/images/blog1-cover.jpg",
+    "title": "10 Tips for Building Responsive Websites with Tailwind CSS",
+    "author": "MD RAISUL ISLAM RONY",
+    "author_img": "https://example.com/images/author1.jpg",
+    "posted_date": "2025-01-20",
+    "reading_time": 7,
+    "hashtags": ["#WebDevelopment", "#TailwindCSS", "#ResponsiveDesign"]
+  },
+  {
+    "id": 2,
+    "cover": "https://example.com/images/blog2-cover.jpg",
+    "title": "Understanding React Hooks: A Beginner's Guide",
+    "author": "Jane Doe",
+    "author_img": "https://example.com/images/author2.jpg",
+    "posted_date": "2025-01-15",
+    "reading_time": 5,
+    "hashtags": ["#ReactJS", "#Hooks", "#FrontendDevelopment"]
+  },
+  {
+    "id": 3,
+    "cover": "https://example.com/images/blog3-cover.jpg",
+    "title": "How to Optimize Your Web App for Performance",
+    "author": "John Smith",
+    "author_img": "https://example.com/images/author3.jpg",
+    "posted_date": "2025-01-10",
+    "reading_time": 8,
+    "hashtags": ["#WebPerformance", "#Optimization", "#JavaScript"]
+  },
+  {
+    "id": 4,
+    "cover": "https://example.com/images/blog4-cover.jpg",
+    "title": "The Future of E-commerce Design Trends in 2025",
+    "author": "MD RAISUL ISLAM RONY",
+    "author_img": "https://example.com/images/author1.jpg",
+    "posted_date": "2025-01-05",
+    "reading_time": 6,
+    "hashtags": ["#Ecommerce", "#DesignTrends", "#UIUX"]
+  },
+  {
+    "id": 5,
+    "cover": "https://example.com/images/blog5-cover.jpg",
+    "title": "Why Git and GitHub are Essential for Developers",
+    "author": "Emily Clark",
+    "author_img": "https://example.com/images/author4.jpg",
+    "posted_date": "2025-01-01",
+    "reading_time": 4,
+    "hashtags": ["#Git", "#GitHub", "#VersionControl"]
+  }
+]
