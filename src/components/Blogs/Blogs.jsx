@@ -10,7 +10,8 @@ const Blogs = () => {
       .then((data) => setBlogs(data));
   }, []);
   return (
-    <div>
+    <div className="w-2/3 border-2 border-red-400">
+        <h1>Blogs</h1>
       <div>
         {blogs.map((blog) => (
           <Blog key={blog.id} blog={blog}></Blog>
