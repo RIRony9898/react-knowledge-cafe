@@ -12,8 +12,12 @@ function App() {
     setBookmark([...bookmark, blog]);
   };
 
-  const handleMarkAsRead = (time) => {
+  const handleMarkAsRead = (id, time) => {
     setMarkAsRead(markAsRead + time);
+
+    //remove bookmarked which completed reading
+    const updateBookmarks = bookmark.filter(bookmark => bookmark.id !== id);
+    setBookmark(updateBookmarks);
   }
   return (
     <div className="container mx-auto my-5">
